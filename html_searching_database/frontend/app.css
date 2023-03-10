@@ -1,0 +1,50 @@
+body {
+    min-height: 100vh;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color:#fff ;
+    padding: 10px 30px;
+    font-size: 0.8rem;
+}
+
+
+
+.batsman {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.runs {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.outs {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.numberofballs {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.average {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.strikerate {
+    justify-content: center;
+    padding: 10px 30px;
+}
+
+.num_of_awards {
+    justify-content: center;
+    padding: 10px 30px;
+}
